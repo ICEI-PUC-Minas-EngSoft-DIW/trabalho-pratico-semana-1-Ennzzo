@@ -7,11 +7,11 @@ Matrícula: 905650
 
 ## Tela de inspeção com navegador
 
-![Inspeção de conexão](images/requisicoes-site.png)
+![Inspeção de conexão](/images/requisicoes-site.png)
 
 ## Tela de projeto no Replit
 
-![Hello World Replit](images/hello-world-replit.png)
+![Hello World Replit](/images/hello-world-replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
