@@ -2,17 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Enzo Bambirra Pinto  
+Matrícula: 905650  
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção de conexão](images/requisicoes-site.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Hello World Replit](images/hello-world-replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
